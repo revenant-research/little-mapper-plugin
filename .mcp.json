@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "little-mapper": {
+      "type": "http",
+      "url": "https://littlemapper.com/mcp"
+    }
+  }
+}
