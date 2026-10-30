@@ -8,7 +8,7 @@ Connect Little Mapper when your assistant asks, and sign in with your work email
 
 ## Data
 
-The plugin sends what you ask Little Mapper to record (work, to-dos, messages, decisions, project and map text, and reported actions in other apps) to your Little Mapper account at littlemapper.com. It stores nothing itself, and Little Mapper watches no other tool: it holds only what is submitted to it. Privacy: https://littlemapper.com/privacy. Support: https://littlemapper.com/support.
+The plugin sends what you ask Little Mapper to record (work, to-dos, messages, decisions, project and map text, and reported actions in other apps) to your Little Mapper account at littlemapper.com. It stores nothing itself, and Little Mapper watches no other tool: it holds only what is submitted to it. Privacy policy: https://littlemapper.com/privacy and support: https://littlemapper.com/support
 
 ## Install in Claude Code without the directory
 

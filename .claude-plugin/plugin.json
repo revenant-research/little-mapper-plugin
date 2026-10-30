@@ -1,11 +1,25 @@
 {
   "name": "little-mapper",
   "displayName": "Little Mapper",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Shared memory for company work across the AI assistants people already use: what needs you, your to-dos, work that moves between colleagues, projects with a status report, maps of how your company does things, and rules for what an assistant may do in an app. Free to use.",
-  "author": { "name": "Revenant Research", "url": "https://littlemapper.com" },
+  "author": {
+    "name": "Revenant Research",
+    "url": "https://littlemapper.com"
+  },
   "homepage": "https://littlemapper.com",
   "repository": "https://github.com/revenant-research/little-mapper-plugin",
   "license": "MIT",
-  "keywords": ["work", "tasks", "to-dos", "projects", "handoffs", "team", "shared memory"]
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://littlemapper.com/privacy",
+  "supportUrl": "https://littlemapper.com/support",
+  "keywords": [
+    "work",
+    "tasks",
+    "to-dos",
+    "projects",
+    "handoffs",
+    "team",
+    "shared memory"
+  ]
 }
