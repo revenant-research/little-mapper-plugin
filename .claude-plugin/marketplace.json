@@ -1,0 +1,7 @@
+{
+  "name": "little-mapper",
+  "owner": { "name": "Revenant Research", "url": "https://littlemapper.com" },
+  "plugins": [
+    { "name": "little-mapper", "source": "./", "description": "Shared memory for company work across the AI assistants people already use. Free to use." }
+  ]
+}
