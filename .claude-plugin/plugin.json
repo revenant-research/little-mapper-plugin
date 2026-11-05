@@ -1,7 +1,7 @@
 {
   "name": "little-mapper",
   "displayName": "Little Mapper",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Shared memory for company work across the AI assistants people already use: what needs you, your to-dos, work that moves between colleagues, projects with a status report, maps of how your company does things, and rules for what an assistant may do in an app. Free to use.",
   "author": {
     "name": "Revenant Research",
